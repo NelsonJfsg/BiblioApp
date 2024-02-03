@@ -1,0 +1,16 @@
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\bin\Debug\net6.0-windows\BiblioApp.exe
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\bin\Debug\net6.0-windows\BiblioApp.deps.json
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\bin\Debug\net6.0-windows\BiblioApp.runtimeconfig.json
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\bin\Debug\net6.0-windows\BiblioApp.dll
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\bin\Debug\net6.0-windows\BiblioApp.pdb
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\obj\Debug\net6.0-windows\BiblioApp.Form1.resources
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\obj\Debug\net6.0-windows\BiblioApp.csproj.GenerateResource.cache
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\obj\Debug\net6.0-windows\BiblioApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\obj\Debug\net6.0-windows\BiblioApp.AssemblyInfoInputs.cache
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\obj\Debug\net6.0-windows\BiblioApp.AssemblyInfo.cs
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\obj\Debug\net6.0-windows\BiblioApp.csproj.CoreCompileInputs.cache
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\obj\Debug\net6.0-windows\BiblioApp.dll
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\obj\Debug\net6.0-windows\refint\BiblioApp.dll
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\obj\Debug\net6.0-windows\BiblioApp.pdb
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\obj\Debug\net6.0-windows\BiblioApp.genruntimeconfig.cache
+D:\Programacion\Cursos\Windows Forms\BiblioApp\Project\BiblioApp\BiblioApp\obj\Debug\net6.0-windows\ref\BiblioApp.dll
